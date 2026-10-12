@@ -16,7 +16,7 @@ El sitio permite conocer un poco sobre mí, explorar mis películas favoritas, d
 ## Tecnologías utilizadas
 
 - **HTML5:** estructura y contenido de la página.
-- **CSS3:** estilos, colores, distribución y diseño visual.
+- **CSS:** estilos, colores, distribución y diseño visual.
 
 ## Características principales
 
